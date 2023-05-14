@@ -1,1 +1,1 @@
-[Yocto](https://www.yoctoproject.org/) build container built on [Debian Buster](https://www.debian.org/releases/buster/) for OpenBMC.
+[Yocto](https://www.yoctoproject.org/) build container built on [Debian Bullseye](https://www.debian.org/releases/bullseye/) for OpenBMC.
